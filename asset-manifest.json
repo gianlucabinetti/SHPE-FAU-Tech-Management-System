@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SHPE-FAU-Tech-Management-System/static/css/main.3e2eef45.css",
+    "main.js": "/SHPE-FAU-Tech-Management-System/static/js/main.4262b602.js",
+    "index.html": "/SHPE-FAU-Tech-Management-System/index.html",
+    "main.3e2eef45.css.map": "/SHPE-FAU-Tech-Management-System/static/css/main.3e2eef45.css.map",
+    "main.4262b602.js.map": "/SHPE-FAU-Tech-Management-System/static/js/main.4262b602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2eef45.css",
+    "static/js/main.4262b602.js"
+  ]
+}
